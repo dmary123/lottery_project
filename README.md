@@ -1,4 +1,4 @@
-# Lottery Number Matcher
+# Lottery
 
 This simple C program allows users to input 6 numbers and check how many of those numbers match with a set of lucky numbers. The program also provides basic features like placing bets and checking the balance.
 
